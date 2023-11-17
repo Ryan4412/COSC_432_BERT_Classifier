@@ -17,8 +17,7 @@ This video is a helpful guide for installing pip on windows.
 once you have pip installed and you have entered your conda enviornment you can begin downloading the dependencies required for the program.   
 ![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/9157cb25-8c38-4690-acd0-38a32c7e2b46)   
 the following is a list of commands you can paste into your terminal to download all dependencies required:   
-
-pip install --upgrade nbconvert     
+  
 pip3 install torch     
 pip install pandas    
 pip install transformers   
