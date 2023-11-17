@@ -15,7 +15,7 @@ This video is a helpful guide for installing pip on windows.
 
 **Step 3: downloading dependencies**    
 once you have pip installed and you have entered your conda enviornment you can begin downloading the dependencies required for the program.   
-![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/9157cb25-8c38-4690-acd0-38a32c7e2b46)   
+![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/439b2a09-e5e2-417c-a566-853999680bd8)      
 the following is a list of commands you can paste into your terminal to download all dependencies required:   
   
 pip3 install torch     
