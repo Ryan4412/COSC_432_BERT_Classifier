@@ -18,7 +18,7 @@ once you have pip installed and you have entered your conda enviornment you can 
 ![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/9157cb25-8c38-4690-acd0-38a32c7e2b46)   
 the following is a list of commands you can paste into your terminal to download all dependencies required:   
   
-pip3 install torch     
+pip install torch     
 pip install pandas    
 pip install transformers   
 pip install numpy   
