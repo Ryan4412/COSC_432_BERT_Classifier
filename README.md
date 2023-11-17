@@ -1,6 +1,33 @@
 # COSC_432_BERT_Classifier
-Step 1: get miniconda
-To get started I would suggest to download Miniconda on your device. Miniconda is a package handeler that allows you to create a mini virtual enviornmant to run applications in and can be helpful for keeping project dependencies separate from your physical device and ensure that you will not ruin other projects that you have by downloading an out-dated dependency. 
-https://www.youtube.com/watch?v=P6eGTN9QN2Q 
-this video is a helpful guide to follow to get started with Miniconda. Once you have created a conda enviormnet like how the video shows you can move on to the next step which is setting up dependencies for your conda enviornment. 
+**Step 1: Installing Miniconda**    
+Miniconda is a package handeler that allows you to create a mini virtual enviornmant to run applications in and can be helpful for keeping project dependencies separate from your physical device and ensure that you will not ruin other projects that you have by downloading an out-dated dependency.    
+https://www.youtube.com/watch?v=P6eGTN9QN2Q    
+this video is a helpful guide to follow to get started with Miniconda. Once you have created a conda enviormnet like how the video shows you can move on to the next step which is setting up dependencies for your conda enviornment.    
+
+**Step2: Installing python and pip**    
+You will need to have Python and pip installed on your device in order to get the python packages required to run the program. pip the package manager for python. If you have ever used Javascript and used npm this should be a familiar concept for you.    
+https://www.python.org/downloads/      
+Use this link to get python on your device.    
+https://pip.pypa.io/en/stable/installation/    
+This is a short guide you can follow for installing pip on your device.        
+https://www.youtube.com/watch?v=fJKdIf11GcI    
+This video is a helpful guide for installing pip on windows.    
+
+**Step 3: downloading dependencies**    
+once you have pip installed and you have entered your conda enviornment you can begin downloading the dependencies required for the program.   
+![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/9157cb25-8c38-4690-acd0-38a32c7e2b46)   
+the following is a list of commands you can paste into your terminal to download all dependencies required:   
+
+pip install --upgrade nbconvert     
+pip3 install torch     
+pip install pandas    
+pip install transformers   
+pip install numpy   
+pip install scikit-learn    
+pip install ipykernel     
+pip install matplotlib     
+pip install tqdm    
+
+
+
 
