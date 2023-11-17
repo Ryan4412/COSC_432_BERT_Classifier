@@ -28,6 +28,8 @@ pip install ipykernel
 pip install matplotlib     
 pip install tqdm    
 
-
-
+**Step 4: Selecting kernel on vscode**     
+Once you have all dependencies installed, the last step is to select the kernel you would like to use to run the program. Open COSC_432_BERT_Classifier.ipynb file in vscode and in the top right you will see the select kernel button.     
+![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/6e3ce1ad-0471-4899-8b1d-bc965b8b6e18)     
+Click on it and select "Python Enviornments..." in the dropdown and then select the conda enviornment you just created. once it loads you will be ready to run the code.
 
